@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @KalenKnox
-- 👀 Yo, I'm just practicing making a branch.
+- 👀 My hobbies are: Crochet, Computers, Coding, Data Engineering, Reading, League of Legends, Metal Music.
 - 🌱 Yo, that's cool, yo.
+- I am learning: Python, Software Engineering, GitHub.
 
 
 <!---
