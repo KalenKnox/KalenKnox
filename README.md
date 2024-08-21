@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KalenKnox
-- 👀 I’m interested in crochet, computing, coding
-- 🌱 I’m currently learning GitHub, Python, Software Engineering
+- 👀 Yo, I'm just practicing making a branch.
+- 🌱 Yo, that's cool, yo.
 
 
 <!---
